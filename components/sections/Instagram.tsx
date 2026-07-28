@@ -2,7 +2,6 @@ import Image from "next/image";
 import Marquee from "@/components/shared/Marquee";
 import { StaggerGroup, StaggerItem } from "@/components/shared/RevealOnScroll";
 import RevealOnScroll from "@/components/shared/RevealOnScroll";
-import { instaPosts } from "@/lib/data";
 
 export default function Instagram() {
   return (
