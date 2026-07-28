@@ -6,7 +6,6 @@ import Brands from "@/components/sections/Brands";
 import Manifesto from "@/components/sections/Manifesto";
 import Novidades from "@/components/sections/Novidades";
 import LojaFisica from "@/components/sections/LojaFisica";
-import Instagram from "@/components/sections/Instagram";
 import Testimonials from "@/components/sections/Testimonials";
 import FinalCTA from "@/components/sections/FinalCTA";
 
